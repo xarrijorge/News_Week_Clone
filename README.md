@@ -13,7 +13,7 @@ $ git clone https://github.com/xarrijorge/News_Week_Clone.git navigate cd into t
 
 $ cd next_web_clone open index.html with your web browser.
 
-Deployment The demo page can be found HERE
+Deployment The demo page can be found [HERE](https://xarrijorge.github.io/News_Week_Clone/).
 
 
 Contributing Fork it https://github.com/xarrijorge/News_Week_clone/fork) Create your feature(dev) branch (git checkout -b feature/[choose-a-name]) Commit your changes (git commit -m 'What this commit will fix/add') Push to the branch (git push origin feature/[chosen name]) Create a new Pull Request License This project is licensed under the MIT License - see the LICENSE file for details
